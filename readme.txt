@@ -8,3 +8,6 @@ insertion at the bottom means i can type
 esc to exit the typing mode (and insertion disappeears)
 the :x to save or :q to exit without saving
 
+nano seems easier than vim with commands
+
+
